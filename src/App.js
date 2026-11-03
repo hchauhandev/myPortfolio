@@ -7,7 +7,7 @@ import {myEmailId, myAddress} from './data/contactData.js'
 function App() {
 
   const siteLinks = [
-    { link: 'https://github.com/harsh-909', icon: github, alt: 'github' },
+    { link: 'https://github.com/hchauhandev', icon: github, alt: 'github' },
     { link: 'www.linkedin.com/in/harsh-chauhan-2b7ab619b/', icon: linkedin, alt: 'linkedin' },
     { link: 'instagram.com', icon: insta, alt: 'instagram' },
     { link: 'https://leetcode.com/u/Harsh-541/', icon: leetcode, alt: 'leetcode' }]
